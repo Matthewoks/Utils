@@ -1,0 +1,10 @@
+C:\Users\mmaio\source\repos\Utils\test\bin\Debug\test.exe.config
+C:\Users\mmaio\source\repos\Utils\test\bin\Debug\test.exe
+C:\Users\mmaio\source\repos\Utils\test\bin\Debug\test.pdb
+C:\Users\mmaio\source\repos\Utils\test\bin\Debug\Utils.dll
+C:\Users\mmaio\source\repos\Utils\test\bin\Debug\Utils.pdb
+C:\Users\mmaio\source\repos\Utils\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\mmaio\source\repos\Utils\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\mmaio\source\repos\Utils\test\obj\Debug\test.csproj.Up2Date
+C:\Users\mmaio\source\repos\Utils\test\obj\Debug\test.exe
+C:\Users\mmaio\source\repos\Utils\test\obj\Debug\test.pdb
